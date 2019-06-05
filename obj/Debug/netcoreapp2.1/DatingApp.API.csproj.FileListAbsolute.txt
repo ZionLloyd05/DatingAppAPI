@@ -1,7 +1,12 @@
+C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\Data\UserSeed.json
+C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
@@ -9,9 +14,5 @@ C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
-C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
-C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
-C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\eLloydServe\Desktop\Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
