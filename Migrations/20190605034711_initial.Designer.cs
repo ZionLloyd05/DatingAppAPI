@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DatingApp.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190605010917_initial")]
+    [Migration("20190605034711_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -49,9 +49,9 @@ namespace DatingApp.API.Migrations
 
                     b.Property<string>("Country");
 
-                    b.Property<DateTime?>("Created");
+                    b.Property<DateTime>("Created");
 
-                    b.Property<DateTime?>("DateOfBirth");
+                    b.Property<DateTime>("DateOfBirth");
 
                     b.Property<string>("Gender");
 
@@ -61,7 +61,7 @@ namespace DatingApp.API.Migrations
 
                     b.Property<string>("KnownAs");
 
-                    b.Property<DateTime?>("LastActive");
+                    b.Property<DateTime>("LastActive");
 
                     b.Property<string>("LookingFor");
 

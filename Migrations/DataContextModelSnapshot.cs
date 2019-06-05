@@ -47,9 +47,9 @@ namespace DatingApp.API.Migrations
 
                     b.Property<string>("Country");
 
-                    b.Property<DateTime?>("Created");
+                    b.Property<DateTime>("Created");
 
-                    b.Property<DateTime?>("DateOfBirth");
+                    b.Property<DateTime>("DateOfBirth");
 
                     b.Property<string>("Gender");
 
@@ -59,7 +59,7 @@ namespace DatingApp.API.Migrations
 
                     b.Property<string>("KnownAs");
 
-                    b.Property<DateTime?>("LastActive");
+                    b.Property<DateTime>("LastActive");
 
                     b.Property<string>("LookingFor");
 
